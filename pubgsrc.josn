@@ -3,9 +3,9 @@
     "global2":true,
     "global3":true,
     "korea1":true,
-    "korea2":false,
+    "korea2":true,
     "taiwan1":true,
-    "taiwan2":false,
+    "taiwan2":true,
     "vietnam1":true,
-    "vietnam2":false
+    "vietnam2":true
 }
