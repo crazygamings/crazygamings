@@ -1,7 +1,7 @@
 {
     "global1":true,
     "global2":true,
-    "global3":false,
+    "global3":true,
     "korea1":true,
     "korea2":true,
     "taiwan1":true,
