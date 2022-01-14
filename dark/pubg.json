@@ -1,18 +1,18 @@
 {
-    global {
-        apkhttpsgoogle-vault-analysis.infoappgl.apk,
-        obbhttpsgoogle-vault-analysis.infoappgl.obb
+    "global": {
+        "apk":"https://google-vault-analysis.info/app/gl.apk",
+        "obb":"https://google-vault-analysis.info/app/gl.obb"
     },
-    korea {
-        apkhttpsgoogle-vault-analysis.infoappkr.apk,
-        obbhttpsgoogle-vault-analysis.infoappkr.obb
+    "korea": {
+        "apk":"https://google-vault-analysis.info/app/kr.apk",
+        "obb":"https://google-vault-analysis.info/app/kr.obb"
     },
-    vietnam {
-        apkhttpsgoogle-vault-analysis.infoappvn.apk,
-        obbhttpsgoogle-vault-analysis.infoappvn.obb
+    "vietnam": {
+        "apk":"https://google-vault-analysis.info/app/vn.apk",
+        "obb":"https://google-vault-analysis.info/app/vn.obb"
     },
-    taiwan {
-        apkhttpsgoogle-vault-analysis.infoapptw.apk,
-        obbhttpsgoogle-vault-analysis.infoapptw.obb
+    "taiwan": {
+        "apk":"https://google-vault-analysis.info/app/tw.apk",
+        "obb":"https://google-vault-analysis.info/app/tw.obb"
     }
 }
