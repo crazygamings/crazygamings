@@ -2,11 +2,11 @@
   "magisk": {
     "version": "23.0",
     "versionCode": "23000",
-    "link": "https://cdn.jsdelivr.net/gh/topjohnwu/magisk-files@23.0/app-release.apk",
-    "note": "https://topjohnwu.github.io/Magisk/releases/23000.md"
+    "link": "https://raw.githubusercontent.com/crazygamings/crazygamings/master/root/stub-release.apk",
+    "note": "https://raw.githubusercontent.com/crazygamings/crazygamings/master/root/23000.md"
   },
   "stub": {
     "versionCode": "21",
-    "link": "https://cdn.jsdelivr.net/gh/topjohnwu/magisk-files@23.0/stub-release.apk"
+    "link": "https://raw.githubusercontent.com/crazygamings/crazygamings/master/root/stub-release.apk"
   }
 }
