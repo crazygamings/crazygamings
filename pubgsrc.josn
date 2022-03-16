@@ -1,6 +1,6 @@
 {
-    "global1":false,
-    "global2":false,
+    "global1":true,
+    "global2":true,
     "global3":false,
     "korea1":true,
     "korea2":false,
