@@ -1,11 +1,11 @@
 {
-    "global1":flase,
+    "global1":false,
     "global2":false,
     "global3":false,
     "korea1":false,
-    "korea2":false,
+    "korea2":true,
     "taiwan1":false,
-    "taiwan2":flase,
+    "taiwan2":true,
     "vietnam1":false,
-    "vietnam2":false
+    "vietnam2":true
 }
